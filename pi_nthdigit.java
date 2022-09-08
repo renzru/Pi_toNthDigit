@@ -22,6 +22,7 @@ public class pi_nthdigit{
             System.out.println("Invalid!");
             System.exit(0);
         }
+        
             BigDecimal bd = new BigDecimal(Double.toString(pi));
             bd = bd.setScale(place, RoundingMode.DOWN);
 
