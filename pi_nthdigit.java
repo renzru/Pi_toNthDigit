@@ -3,7 +3,7 @@ import java.lang.Math;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-// TODO: make it so that it can print more decimals of pi than the max 15 digits in Math.PI (aybe use a formula for generating pi?)
+// TODO: make it so that it can print more decimals of pi than the max 15 digits in Math.PI (Maybe use a formula for generating pi?)
 
 public class pi_nthdigit{
     public static void main(String[]args)
